@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-azure-sample",
+  "version": "0.0.1",
+  "description": "Code supporting the rest api using nodejs and express sample blog",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure"
+  ],
+  "author": "Brede Børhaug",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
